@@ -1,0 +1,25 @@
+$date
+	Sun Jan 18 21:39:07 2026
+$end
+$version
+	QuestaSim Version 2021.2_1
+$end
+$timescale
+	1ps
+$end
+
+$scope module top $end
+
+$scope module dut $end
+
+$scope module u_axi4_lite_master0 $end
+$upscope $end
+
+$scope module u_axi4_lite_slave0 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+$end
