@@ -60,7 +60,7 @@ class axi4_lite_scoreboard extends uvm_component;
           model_mem[idx][b*8 +: 8] = tr.wdata[b*8 +: 8];
         end
       end
-      `uvm_info("SCOREBOARD", $sformatf("WRITE model @ idx=%0h addr=0x%0h data=0x%0h wstrb=0x%0h",
+      `uvm_info("SCOREBOARD", $sformatf("WRITE model @ idx=%0d addr=0x%0h data=0x%0h wstrb=0x%0h",
                      idx, addr, tr.wdata, tr.wstrb), UVM_LOW)
     end
 
