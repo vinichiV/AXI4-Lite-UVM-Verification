@@ -14,7 +14,7 @@ vlog axi4_lite_top.sv my_pkg.svh testbench.sv
 # ================================
 # Simulate
 # ================================
-vsim work.top
+vsim -voptargs=+acc work.top
 
 # ================================
 # Waveform
