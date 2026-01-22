@@ -9,7 +9,6 @@ The design is derived from **Xilinx DS765 LogiCORE IP AXI4-Lite IPIF (axi_lite_i
 - Valid/ready handshake timing and response checking
 
 ### UVM architecture
-![axi4_lite_uvm](https://github.com/user-attachments/assets/47d1a419-2379-4ca9-86dc-0012cc1f5ce5)
 <img width="1393" height="832" alt="image" src="https://github.com/user-attachments/assets/de3a50c7-cc89-441f-b47f-10ca411015da" />
 
 ---
