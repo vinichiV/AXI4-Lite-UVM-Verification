@@ -1,7 +1,7 @@
 # UVM Verification for AXI4 Lite
 
 This repository implements a complete *UVM-based verification environment* for the AXI4-Lite protocol, focused on verifying a master-slave communication interface.
-The design is derived from **Xilinx DS765 LogiCORE IP AXI4-Lite IPIF (axi_lite_ipif) v1.01.a Data Sheet** (https://docs.amd.com/v/u/en-US/axi_lite_ipif_ds765), which is used as a reference specification for protocol timing and signaling.
+The design is derived from **"Xilinx DS765 LogiCORE IP AXI4-Lite IPIF (axi_lite_ipif) v1.01.a Data Sheet"** (https://docs.amd.com/v/u/en-US/axi_lite_ipif_ds765), which is used as a reference specification for protocol timing and signaling.
 
 ### Scope
 - AXI4-Lite single-master, single-slave interface
